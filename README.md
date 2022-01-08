@@ -1,8 +1,7 @@
-Hi 👋 I’m [@mchlol](https://twitter.com/mchlol), an aspiring front-end web developer.<br>
-
+Hi 👋 I’m [@mchlol](https://twitter.com/mchlol), an aspiring front-end web developer.
+<br
+    Right now, I'm working on mastering responsive layouts & learning to work with JavaScript in the DOM.
 <br>
-<br>
-
-![mchlol's GitHub stats](https://github-readme-stats.vercel.app/api?username=mchlol&theme=buefy&show_icons=true&hide=stars,prs,contribs,issues)
-
+                 I want to make interesting, beautiful, accessible, interactive experiences on the web. 
+                 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mchlol)](https://github.com/anuraghazra/github-readme-stats)
